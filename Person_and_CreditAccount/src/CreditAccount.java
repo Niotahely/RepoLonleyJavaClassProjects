@@ -88,7 +88,7 @@ public class CreditAccount {
         CreditAccount p = new CreditAccount(owner, owner.socialSN);
         p.setLimit(default_limit);
         p.setBalance(balance);
-        return this;
+        return p;
     }
 
 
