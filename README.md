@@ -1,2 +1,3 @@
-# java_10n31y-pr0j3c75
-LPO lonley pojects
+# Repo Lonley Class java Projects
+this folder collects all the university projects of the object-oriented programming course 
+that's it
